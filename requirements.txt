@@ -1,0 +1,22 @@
+# Core
+jupyter
+notebook
+
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Optional but often used in notebooks
+scipy
+statsmodels
+
+# For web scraping (used in the Movies dataset project)
+beautifulsoup4
+requests
